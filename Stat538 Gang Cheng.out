@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Sparse-Group lasso}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Dual formulation}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Sparsity pattern}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Proximal operator for sparse-group lasso}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{GAP safe rule for the sparse group lasso}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Description of the screening rules}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Computation of gap safe sphere}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Computation of the center}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Computation of the radius}{subsection.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Convergence of the active set}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Numerical simulation}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Screening simulation}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Time to convergence}{section.4}% 14
